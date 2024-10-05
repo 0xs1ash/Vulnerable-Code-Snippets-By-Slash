@@ -1,0 +1,19 @@
+{
+    "admin":{
+        "firstname":"nijat",
+        "role":"admin",
+        "id":"1",
+        "token":"b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9",
+        "age":"9999+",
+        "gender":"man"
+    },
+    "user":{
+        "firstname":"slash",
+        "role":"user",
+        "id":"2",
+        "token":"0baf2f3dc368ecd7fe5e77d2080f13c9e1a9c2c2ba2f9e059a8bd0840bcbb1fc",
+        "age":"9",
+        "gender":"man"
+    }
+
+}
